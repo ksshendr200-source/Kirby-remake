@@ -1,0 +1,22 @@
+{
+    "boss": {
+        "sx": 0,
+        "sy": 0,
+        "tileW": 72,
+        "tileH": 72
+    },
+
+    "boss_missile_sound": {
+        "sx": 648,
+        "sy": 0,
+        "tileW": 72,
+        "tileH": 72
+    },
+
+    "boss_missile_note": {
+        "sx": 792,
+        "sy": 0,
+        "tileW": 72,
+        "tileH": 72
+    }
+}
